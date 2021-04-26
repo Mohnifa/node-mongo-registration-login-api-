@@ -1,0 +1,4 @@
+﻿{
+    "connectionString":  "mongodb+srv://mohnifa:lodikils03@cluster0.e20a4.mongodb.net/mohnifa-node-api?retryWrites=true&w=majority",
+    "secret": "ayg saba"
+}
